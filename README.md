@@ -1,1 +1,1 @@
-# IS-sem-1-DC-lab2
+# Пример оформления README.md
